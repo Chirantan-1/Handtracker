@@ -1,3 +1,1 @@
-# Handtracker
-
-Contains different functions for handtracking using google's mediapipe. - Chirantan RDP 7C
+This repositry contains the handtracker file with several functions, example uses are given in the folder. - Chriantan RDP 7c
